@@ -1,0 +1,114 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.logo{
+    margin-bottom: -10px;
+    padding-left: 45%;
+    padding-right: 35%;
+
+}
+
+.logo-img{
+    width: 45%;
+    height: 45%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.form{
+    border: 1px solid lime;
+    border-radius: 12.5px;
+    width: 28vw;
+    height: 65vh;
+    margin-top: -2.5px;
+    margin-left: 35%;
+    margin-right: 500px;
+    background: limegreen;
+}
+
+.form h3{
+    text-align: center;
+    color: white;
+}
+
+.form hr{
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 1px solid whitesmoke;
+}
+
+.form label{
+    color: white;
+    margin-left: 5%;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.form input{
+    border: 0.5px solid;
+    border-radius: 3px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 7px;
+    padding-right: 45%;
+}
+
+.form a{
+    text-decoration: none;
+}
+
+.reset{
+    text-align: right;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: medium;
+    font-weight: 400;
+}
+
+.reset a{
+    color: black;
+}
+
+.login{
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 10px;
+    border: 1px solid red;
+    background: gold;
+    text-align: center;
+    cursor: pointer;
+}
+
+.login button{
+    font-weight: 500;
+    font-size: large;
+    background: gold;
+    border: 0px;
+    border-radius: 0px;
+    cursor: pointer;
+}
+
+.parag{
+    color: white;
+    margin-bottom: 5px;
+    margin-left: 4%;
+    margin-right: 4%;
+    font-size: small;
+    font-weight: 400;
+}
+
+
+.odel{
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 10px;
+    border-radius: 25px solid goldenrod;
+    background: goldenrod;
+    text-align: center;
+    cursor: pointer;
+}
+
+.odel a{
+    color: white;
+}
