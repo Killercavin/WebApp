@@ -1,0 +1,74 @@
+*, html, body{
+    margin: 0;
+    padding: 0;
+    background-color: burlywood;
+}
+
+#main{
+    width: 100%;
+    height: auto;
+}
+
+#title{
+    text-align: center;
+    margin: 2.5px auto 0 auto;
+    padding: 5px;
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+#motto{
+    text-align: center;
+    margin: 0;
+    padding: 2.5px;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+#img-div{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#img{
+    width: 100%;
+    max-width: 1000px;
+    min-width: 250px;
+    height: auto;
+    opacity: 95%;
+    border-radius: 10px;
+}
+
+#img-caption{
+    margin: 5px auto;
+    padding: 2.5px auto;
+    text-align: center;
+    font-size: 1.05rem;
+}
+
+#tribute-info{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#headline{
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+#tribute-link{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
