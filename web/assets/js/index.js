@@ -20,7 +20,7 @@ console.log("The removed item from the array is", my_NewArray, "and now my new a
 // to add or remove elements from the beginning of an array we use .unshift() and .shift() functions
 // let's see how this functions
 
-myArray.shift(); // removing the first element from the array lis object
+myArray.shift(); // removing the first element from the array list object
 
 myArray.unshift(-3); // adding an item to the first index/positon of an array list
 
